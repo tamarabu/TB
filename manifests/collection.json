@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://tamarabu.github.io/TB/manifests/TB_manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tamarabu.github.io/TB/manifests/TBmanifest.json",
+    "label" : "[Click to edit label]"
   } ]
 }
