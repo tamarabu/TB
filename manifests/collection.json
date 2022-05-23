@@ -1,0 +1,13 @@
+{
+  "id" : "https://tamarabu.github.io/TB/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in tamarabu/TB project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://tamarabu.github.io/TB/manifests/TB_manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
